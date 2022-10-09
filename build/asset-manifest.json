@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f992db6.css",
+    "main.js": "/static/js/main.92a996b8.js",
+    "static/js/787.e8154267.chunk.js": "/static/js/787.e8154267.chunk.js",
+    "static/media/wipro.png": "/static/media/wipro.93c3b336d9e21f6377fb.png",
+    "static/media/mphasis.png": "/static/media/mphasis.bf0c9acdcf4a8a73212a.png",
+    "static/media/larsen.jpg": "/static/media/larsen.5c26187aa554c607a3d3.jpg",
+    "static/media/tcs.jpg": "/static/media/tcs.e5153ccfe36847acca8e.jpg",
+    "static/media/dailytasks.png": "/static/media/dailytasks.0710161f8252ceaa69af.png",
+    "static/media/v-logo.jpg": "/static/media/v-logo.82550f150d184673fc9d.jpg",
+    "static/media/accenture.avif": "/static/media/accenture.f8e3550e8ef2c988a6de.avif",
+    "static/media/infosys.webp": "/static/media/infosys.9f8a8433946a3ee1911b.webp",
+    "index.html": "/index.html",
+    "main.0f992db6.css.map": "/static/css/main.0f992db6.css.map",
+    "main.92a996b8.js.map": "/static/js/main.92a996b8.js.map",
+    "787.e8154267.chunk.js.map": "/static/js/787.e8154267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f992db6.css",
+    "static/js/main.92a996b8.js"
+  ]
+}
