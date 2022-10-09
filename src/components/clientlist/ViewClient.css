@@ -1,0 +1,56 @@
+.view-client {
+  /* background: white; */
+  height: 90vh;
+  width: 95%;
+  margin-left: 30px;
+}
+
+.view-bar {
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  border-radius: 10px 10px 10px 10px;
+  padding-top: 10px;
+}
+
+
+.view-text {
+  margin-left: 30px;
+}
+
+.view-text h4 {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.view-text span {
+  color: rgb(67, 67, 67);
+  font-size: 10px;
+  letter-spacing: -0.005em;
+}
+.export {
+  border: none;
+  margin-left: 5px;
+  border-radius: 2px;
+  margin-right: 10px;
+  color: blue;
+}
+
+/* .searchbar{
+
+} */
+#search {
+  border-radius: 20px;
+  border-color: rgb(224, 227, 230);
+  width: 95%;
+  height: 35px;
+  margin-left: 5px;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+
+tbody {
+  background-color: white;
+  width: 95%;
+}

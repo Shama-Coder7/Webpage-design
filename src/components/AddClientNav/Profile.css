@@ -1,0 +1,37 @@
+.profile{
+    margin-top: 20px;
+    padding-left: 35px;
+    height: 75vh;
+}
+
+.profile-logo{
+    display: flex;
+    
+    flex: 0;
+    margin-top: 20px;
+}
+
+.profile-text span{
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: none;
+}
+.logo{
+    color: lightgray;
+    height: 80px;
+    
+}
+p{
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+p span{
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.profile-form{
+    margin-top: 20px;
+}

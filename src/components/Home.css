@@ -1,0 +1,135 @@
+.home {
+  display: flex;
+}
+.section-1 {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  /* margin-left: 160px; */
+  position: relative;
+}
+
+h3 {
+  /* Welcome */
+
+  width: 567px;
+  height: 44px;
+
+  /* Typeface/Nunito Sans/Headline H4 */
+
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 44px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.005em;
+
+  /* Secondary ISS Dark Blue/100% */
+
+  color: #030037;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.home img{
+  height: 100px;
+}
+.section-2 {
+  width: 50%;
+  height: 100vh;
+  background-color: blue;
+}
+
+/* .login-form{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+} */
+
+.rect-bar {
+  position: absolute;
+  width: 544.22px;
+  height: 453.03px;
+  left: 58%;
+  right: 18%;
+  top: 8%;
+
+  /* White */
+
+  background: #ffffff;
+  /* Card Shadow/08 */
+
+  box-shadow: 0px 12px 48px rgba(3, 0, 55, 0.15);
+  border-radius: 20px;
+}
+
+.rect-bar-title,
+.rect-bar-text {
+  width: 556px;
+  height: 44px;
+
+  /* Typeface/Nunito Sans/Headline H4 */
+  /* line-height: 105px; */
+  /* identical to box height */
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-left: 100px;
+
+  letter-spacing: -0.009em;
+
+  /* White */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  /*   
+  flex: none;
+  order: 0;
+  flex-grow: 0; */
+}
+
+.rect-bar-title {
+  top: 82%;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.rect-bar-text {
+  top: 88%;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.footer{
+  margin-top: 200px;
+  margin-left: 200px;
+
+  font-size: 12px;
+  letter-spacing: -0.005em;
+
+}
+
+@media(max-width: 650px) {
+  .section-1{
+    flex-direction: column;
+    align-items: flex-start;
+
+  }
+}

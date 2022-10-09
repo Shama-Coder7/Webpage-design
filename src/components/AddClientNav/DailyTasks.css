@@ -1,0 +1,37 @@
+.daily-tasks {
+  margin-top: 20px;
+}
+
+.card {
+  height: 50vh;
+}
+.dt-nav {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+
+}
+
+.dt-top{
+    display:flex ;
+}
+
+
+.tasks-text{
+    margin-left: 10px;
+}
+.tasks-text span {
+  color: lightgray;
+}
+
+.sub-checkbox {
+  color: lightgray;
+  margin-left: 20px;
+}
+
+.d-body {
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+  

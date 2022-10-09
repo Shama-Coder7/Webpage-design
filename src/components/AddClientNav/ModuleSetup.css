@@ -1,0 +1,15 @@
+.module-setup{
+height: 70vh;
+}
+.module-setup-left{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    height: 20px;
+}
+
+.module-button{
+    margin-top: 10px;
+}

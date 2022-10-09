@@ -1,0 +1,61 @@
+.master {
+  display: flex;
+  flex-direction: row;
+}
+.master-1 {
+  background-color: white;
+  width: 15%;
+  height: 100vh;
+}
+
+.master-1 h4 {
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+#searchbar {
+  border-radius: 20px;
+  border-color: rgb(224, 227, 230);
+  width: 95%;
+  margin-left: 5px;
+  padding-left: 10px;
+}
+
+#cm {
+  margin-top: 10px;
+  padding-left: 10px;
+  color: lightgray;
+  font-size: 15px;
+}
+
+#view-btn {
+  color: white;
+  width: 90%;
+  height: 30px;
+  background-color: blue;
+  border: none;
+  border-radius: 10px;
+  margin-left: 6px;
+  /* display: flex;
+    align-items: start; */
+}
+
+#add-btn {
+  width: 90%;
+  border: none;
+  border-radius: 10px;
+  margin-left: 6px;
+  background: none;
+  /* display: flex;
+    justify-content: start; */
+}
+
+.master-2 {
+  background-color: rgb(234, 235, 238);
+  width: 85%;
+  height: 100vh;
+}
+
+

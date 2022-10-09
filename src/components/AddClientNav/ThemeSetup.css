@@ -1,0 +1,31 @@
+.theme-setup{
+    margin-top: 20px;
+    padding-left: 35px;
+    height: 50vh;
+}
+
+.theme-text span{
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: none;
+}
+
+.theme-body p{
+    color: lightgray;
+    font-size: 12px;
+}
+
+.theme-body span{
+    
+    color: lightgray;
+    font-size: 12px;
+}
+
+.usecolor{
+    margin-top: 5px;
+}
+
+.theme-button{
+    margin-top: 20px;
+}
+
